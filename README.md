@@ -6,8 +6,6 @@ Un diseño simple e interactivo con el cual podrían guisarse para futuros proye
 
 El sitio Web no es responsivo, como se explica anteriormente es solo para dar una idea.
 
-Vista Previa: https://juanlugodegouveia.github.io/Freelancer-Design./.
-
 ## Copyright
 
 Copyright 2019 Juan Carlos Lugo
