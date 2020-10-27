@@ -1,10 +1,10 @@
-# Uptask - Administrador de Tareas.
+# Uptask - Task Manager.
 
-Aplicación web creada con el fin de poder administrar proyectos en la cuales se está trabajando o se trabajará. El desarrollo de la aplicación fue llevado a cabo con diferentes tecnologías como lo son HTML 5, CSS 3, JS, AJAX, PHP y MySQL. La aplicación cuenta con un sistema de login, en el cual al ingresar nos permite administrar nuestros proyectos, pudiendo crear, leer, actualizar y borrar datos en una base de datos, llevando así un registro eficiente de nuestros proyectos.
+Web application created in order to manage projects in which you are working or will work. The development of the application was carried out with different technologies such as HTML 5, CSS 3, JS, AJAX, PHP and MySQL. The application has a login system, in which when entering it allows us to manage our projects, being able to create, read, update and delete data in a database, thus keeping an efficient record of our projects.
 
-Un diseño simple e interactivo con el cual podrían guisarse para futuros proyectos, la intención es dar una idea de como podrían realizarlo y ahorrar tiempo.
+A simple and interactive design with which they could be cooked for future projects, the intention is to give an idea of how they could do it and save time.
 
-El sitio Web no es responsivo, como se explica anteriormente es solo para dar una idea.
+The website is not responsive, as explained above is just to give an idea.
 
 ## Copyright
 
